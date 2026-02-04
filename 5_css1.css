@@ -38,6 +38,7 @@ p {
   background: #ffffff;
   border: 4px solid #008000;
   padding: 14px 16px;
+  max-width: 92%;
   margin: 18px 0;
 }
 
